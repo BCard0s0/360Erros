@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pvieira\\GITHUB_360\\WPF-spline-area-chart-dashboard-to-visualize-the-details-of-the-Women-s-2024-T20-World-Cup\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj": {}
+    "C:\\Users\\bruno.cardoso\\Source\\Repos\\360Erros\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pvieira\\GITHUB_360\\WPF-spline-area-chart-dashboard-to-visualize-the-details-of-the-Women-s-2024-T20-World-Cup\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj": {
+    "C:\\Users\\bruno.cardoso\\Source\\Repos\\360Erros\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pvieira\\GITHUB_360\\WPF-spline-area-chart-dashboard-to-visualize-the-details-of-the-Women-s-2024-T20-World-Cup\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj",
+        "projectUniqueName": "C:\\Users\\bruno.cardoso\\Source\\Repos\\360Erros\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj",
         "projectName": "Women_T20_2024",
-        "projectPath": "C:\\Users\\pvieira\\GITHUB_360\\WPF-spline-area-chart-dashboard-to-visualize-the-details-of-the-Women-s-2024-T20-World-Cup\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj",
-        "packagesPath": "C:\\Users\\pvieira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pvieira\\GITHUB_360\\WPF-spline-area-chart-dashboard-to-visualize-the-details-of-the-Women-s-2024-T20-World-Cup\\Women_T20_2024\\Women_T20_2024\\obj\\",
+        "projectPath": "C:\\Users\\bruno.cardoso\\Source\\Repos\\360Erros\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj",
+        "packagesPath": "C:\\Users\\bruno.cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bruno.cardoso\\Source\\Repos\\360Erros\\Women_T20_2024\\Women_T20_2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\pvieira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -83,7 +82,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

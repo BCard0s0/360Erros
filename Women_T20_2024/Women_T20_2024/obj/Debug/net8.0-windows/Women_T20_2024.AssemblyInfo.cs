@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Women_T20_2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97da8ca43651a528c5682147bb2b8069e985bce2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca3d9e9a18c407c19e31096c5a44e5e15628a6bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Women_T20_2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Women_T20_2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

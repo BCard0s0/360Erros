@@ -9,7 +9,7 @@ namespace Women_T20_2024
 {
     public class T20_Data : INotifyPropertyChanged
     {
-        #region Fields
+        #region Field
 
         private int selectedIndex;
         private int play;
@@ -229,5 +229,6 @@ namespace Women_T20_2024
         }
 
         #endregion
+
     }
 }

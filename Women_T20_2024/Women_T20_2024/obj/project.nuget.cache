@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "nozUE1QZZuM=",
+  "dgSpecHash": "s/39nq2kp9c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pvieira\\GITHUB_360\\WPF-spline-area-chart-dashboard-to-visualize-the-details-of-the-Women-s-2024-T20-World-Cup\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj",
+  "projectFilePath": "C:\\Users\\bruno.cardoso\\Source\\Repos\\360Erros\\Women_T20_2024\\Women_T20_2024\\Women_T20_2024.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pvieira\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\pvieira\\.nuget\\packages\\syncfusion.licensing\\28.2.12\\syncfusion.licensing.28.2.12.nupkg.sha512",
-    "C:\\Users\\pvieira\\.nuget\\packages\\syncfusion.sfchart.wpf\\28.2.12\\syncfusion.sfchart.wpf.28.2.12.nupkg.sha512",
-    "C:\\Users\\pvieira\\.nuget\\packages\\syncfusion.shared.wpf\\28.2.12\\syncfusion.shared.wpf.28.2.12.nupkg.sha512"
+    "C:\\Users\\bruno.cardoso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bruno.cardoso\\.nuget\\packages\\syncfusion.licensing\\28.2.12\\syncfusion.licensing.28.2.12.nupkg.sha512",
+    "C:\\Users\\bruno.cardoso\\.nuget\\packages\\syncfusion.sfchart.wpf\\28.2.12\\syncfusion.sfchart.wpf.28.2.12.nupkg.sha512",
+    "C:\\Users\\bruno.cardoso\\.nuget\\packages\\syncfusion.shared.wpf\\28.2.12\\syncfusion.shared.wpf.28.2.12.nupkg.sha512"
   ],
   "logs": []
 }
